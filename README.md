@@ -2,15 +2,13 @@
 Análise estatística da qualidade da água das praias de SP
 
 ---
-title: "Análise estatística da qualidade da água das praias de SP"
+"Análise estatística da qualidade da água das praias de SP"
 author: "Elidayvison José"
 date: "2023-02-05"
-output: html_document
+
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 ## Objetivos:
 
@@ -26,33 +24,5 @@ Graficos:
 2. Gráfico de pizza
 3. Histograma
 4. Box-plots
-
-```{r}
-
-
-```
-
-
-
-```{r}
-
-
-```
-
-
-```{r }
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-
 
 
